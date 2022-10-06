@@ -8,4 +8,4 @@ Code of the Hands-on Machine Learning with Scikit-Learn, Keras &amp; TensorFlow
 
 ## Author
 
-- [@octokatherine](https://www.github.com/kowshik24)
+- [@kowshik24](https://www.github.com/kowshik24)
